@@ -10,7 +10,7 @@ Hi I love to use React and othe frameworks like Rsuite Chakra-UI Material-UI etc
 * ✉️  You can contact me at [adityagupta20871@gmail.com](mailto:adityagupta20871@gmail.com)
 * 🧠  I'm learning WEB 3 Blockchain and Devops
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I am a writer at GeeksForGeeks. Also I am open to work with anyone you can freely dm me on my mail for any interesting project .
+* ⚡  I am a writer at GeeksForGeeks. Also I am open to work with anyone you can freely dm me on my mail or Twitter for any interesting project .
 
 ### Skills
 
