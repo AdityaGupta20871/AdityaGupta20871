@@ -79,15 +79,15 @@ I am a **Full Stack Developer** who enjoys building modern web applications usin
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGupta20871&theme=dark&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=AdityaGupta20871&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta20871&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta20871&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta20871&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
